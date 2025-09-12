@@ -26,7 +26,7 @@
 - skill: "Data Engineering"
   description: |
     <ul>
-      <li><b>Databases:</b> SQL (MySQL, Oracle, PostgreSQL), MongoDB</li>
+      <li><b>Databases:</b> SQL (MySQL, Oracle), NoSQL (MongoDB), Vector (Qdrant)</li>
       <li><b>ETL & Pipelines:</b> data ingestion, preprocessing, transformation</li>
       <li><b>Web Scraping:</b> Scrapy, Trafilatura</li>
     </ul>
