@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Science, Mechanical Engineering
+  uni: Delft University of Technology
+  year: 2019 &mdash; 2022
+  summary: Specialized in the high-tech engineering track. More specifically, I worked on numerical methods that allow solving mechanical contact problems under large deformations.
+
+- degree: Bachelor of Science, Aerospace Engineering
+  uni: Delft University of Technology
+  year: 2016 &mdash; 2019
+  summary: Worked in a student rocketry team DARE where I designed and manufactured components for the Stratos III and Stratos IV suborbital rockets. Developed an interest in computer simulations and completed a minor programme in computer science.
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Riga State Gymnasium No. 1
+  year: 2016
+  award: Municipality award for excellent grades

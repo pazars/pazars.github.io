@@ -1,16 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: kopsavilkums.lv
+  role: Developer
+  duration: 2025 &mdash; Present
+  url: "https://kopsavilkums.lv"
+  description: News summary website that strips away distractive elements and presents only the most relevant Latvian news articles organized in useful categories. The project is fully automated and uses the Gemini large language model to generate short article summaries.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Nasdaq Baltic
+  role: Developer
+  duration: 2025 &mdash; Present
+  url: "https://github.com/pazars/nasdaq-riga"
+  description: Calculates actual profit from corporate bonds in the Nasdaq Baltic stock exchange, taking into account factors that influence earnings like trade price, bank comissions, and local taxes. Collects and stores the scraped information for long-term trend analysis.
+
+- project: Belebele eval
+  role: Developer
+  duration: 2024 &mdash; Present
+  url: "https://github.com/pazars/belebele_lv_eval"
+  description: Repository that tracks the latest LLM Latvian language comprehension skills using Meta's Belebele benchmark. The final leaderboard is presented in a table and largely matches my subjective opinion from daily use of the models.

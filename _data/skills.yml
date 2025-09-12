@@ -1,12 +1,39 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: "AI & Machine Learning"
+  description: |
+    <ul>
+      <li><b>LLM APIs & Frameworks:</b> OpenAI API, Anthropic Claude, Gemini API, Azure OpenAI Services, LiteLLM for unified API integration, Instructor for structured output</li>
+      <li><b>Model Development:</b> RAG (retrieval-augmented generation), custom benchmarks</li>
+      <li><b>ML Libraries:</b> PyTorch, TensorFlow, scikit-learn, XGBoost</li>
+    </ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: "MLOps & Deployment"
+  description: |
+    <ul>
+      <li><b>APIs & Serving:</b> FastAPI, Docker, Kubernetes</li>
+      <li><b>Experiment Tracking:</b> Weights & Biases (W&B)</li>
+      <li><b>Monitoring & Observability:</b> GCP Cloud Monitoring, BigQuery logging</li>
+    </ul>
+
+- skill: "Cloud Platforms"
+  description: |
+    <ul>
+      <li><b>Google Cloud Platform:</b> BigQuery, Vertex AI, Cloud Run</li>
+      <li><b>Azure:</b> Azure OpenAI Services</li>
+    </ul>
+
+- skill: "Data Engineering"
+  description: |
+    <ul>
+      <li><b>Databases:</b> SQL (MySQL, Oracle, PostgreSQL), MongoDB</li>
+      <li><b>ETL & Pipelines:</b> data ingestion, preprocessing, transformation</li>
+      <li><b>Web Scraping:</b> Scrapy, Trafilatura</li>
+    </ul>
+
+- skill: "Programming"
+  description: |
+    <ul>
+      <li><b>Languages:</b> Python (primary), R, C/C++</li>
+      <li><b>Frontend:</b> TypeScript, Svelte (basic)</li>
+    </ul>
