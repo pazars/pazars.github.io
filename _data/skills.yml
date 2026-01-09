@@ -1,7 +1,7 @@
 - skill: "AI & Machine Learning"
   description: |
     <ul>
-      <li><b>LLM APIs & Frameworks:</b> OpenAI API, Anthropic Claude, Gemini API, Azure OpenAI Services, LiteLLM for unified API integration, Instructor for structured output, BAML for type-safe LLM functions</li>
+      <li><b>LLM APIs & Frameworks:</b> OpenAI API, Anthropic Claude, Gemini API, Azure OpenAI Services, LiteLLM for unified API integration, Instructor/BAML for structured output</li>
       <li><b>Model Development:</b> RAG (retrieval-augmented generation), custom benchmarks</li>
       <li><b>ML Libraries:</b> PyTorch, TensorFlow, scikit-learn, XGBoost, Pydantic for data validation</li>
     </ul>
