@@ -3,13 +3,13 @@
 
 - project: AI Coach
   duration: 2026
-  url: Work in Progress
-  description: An AI agent system that can create training plans for running and keep track of athlete's progress. Based on athlete's metrics AND feedback.
+  # url: Work in Progress
+  description: (WIP) An AI agent system that can create training plans for running and keep track of athlete's progress. Based on athlete's metrics AND feedback.
 
 - project: pasaulesture.lv
   duration: 2026
   url: "https://pasaulesture.lv"
-  description: Work in Progress. Website for 'Pasaules Tūre' cycling events. Info, payments, and live event tracking.
+  description: (WIP) Website for 'Pasaules Tūre' cycling events. Info, payments, and live event tracking.
 
 - project: kopsavilkums.lv
   duration: 2025
