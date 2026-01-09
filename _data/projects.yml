@@ -1,20 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: AI Coach
+  duration: 2026
+  url: Work in Progress
+  description: An AI agent system that can create training plans for running and keep track of athlete's progress. Based on athlete's metrics AND feedback.
+
+- project: pasaulesture.lv
+  duration: 2026
+  url: "https://pasaulesture.lv"
+  description: Work in Progress. Website for 'Pasaules Tūre' cycling events. Info, payments, and live event tracking.
+
 - project: kopsavilkums.lv
-  role: Developer
-  duration: 2025 &mdash; Present
+  duration: 2025
   url: "https://kopsavilkums.lv"
-  description: News summary website that strips away distractive elements and presents only the most relevant Latvian news articles organized in useful categories. The project is fully automated and uses the Gemini large language model to generate short article summaries.
+  description: News summary website that strips away distractive elements and presents only the most relevant Latvian news articles organized in useful categories. The project is fully automated and uses the Gemini large language model to generate short article summaries. Discontinued due to news source copyright issues.
 
 - project: Nasdaq Baltic
-  role: Developer
-  duration: 2025 &mdash; Present
+  duration: 2025
   url: "https://github.com/pazars/nasdaq-riga"
   description: Calculates actual profit from corporate bonds in the Nasdaq Baltic stock exchange, taking into account factors that influence earnings like trade price, bank comissions, and local taxes. Collects and stores the scraped information for long-term trend analysis.
 
 - project: Belebele eval
-  role: Developer
-  duration: 2024 &mdash; Present
+  duration: 2024
   url: "https://github.com/pazars/belebele_lv_eval"
   description: Repository that tracks the latest LLM Latvian language comprehension skills using Meta's Belebele benchmark. The final leaderboard is presented in a table and largely matches my subjective opinion from daily use of the models.
